@@ -1,2 +1,2 @@
 # Portfolio
-Just a simple portfoli made for project purpose
+Just a simple portfolio made for project purpose
